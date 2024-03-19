@@ -1,6 +1,6 @@
-name: flutter_quill
+name: flutter_quill_mark
 description: A rich text editor built for the modern Android, iOS, web and desktop platforms. It is the WYSIWYG editor and a Quill component for Flutter.
-version: 8.6.5
+version: 8.6.4
 homepage: https://1o24bbs.com/c/bulletjournal/108
 repository: https://github.com/singerdmx/flutter-quill
 
@@ -53,7 +53,7 @@ dependencies:
 
   # Plugins
   url_launcher: ^6.1.14
-  flutter_keyboard_visibility: ^5.4.1
+  flutter_keyboard_visibility: ^6.0.0
   device_info_plus: ^9.1.0
   pasteboard: ^0.2.0
 
